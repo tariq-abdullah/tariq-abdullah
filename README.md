@@ -1,14 +1,12 @@
-👋 Hi, I’m Tariq Abdullah
 
-👀 I’m CEO at IQL Technologies.
+# 👋 Hi, I’m Tariq Abdullah 
 
-🌱 I’m an Indian Muslim. 
+👀 I'm glad I got your attention.  I’m CEO at IQL Technologies.
+🌱 I’m a programmer, Indian, Muslim, a father and an entreprenur.
 
-💞️ I’m looking to collaborate on software that can make web hoster's life easy
+I play cricket or write open-source code during my free time.
+I like to talk about global politics, science and Islam.
+
+*I'm also open to working and collaborating on interesting projects.*
 
 📫 you can contact me on tariq@iqltech.com
-
-<!---
-tariqsocial/tariqsocial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
